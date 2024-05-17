@@ -33,6 +33,7 @@ public class Attraction {
     //평강 0316
     //평강 0317
     //평강 0403
+    //평강 0418
 
 }
 // test 혜원 0226
