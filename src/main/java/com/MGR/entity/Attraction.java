@@ -44,6 +44,7 @@ public class Attraction {
     // test 0419
     // 혜{원 04234
     // test 0425
+    // test 0434
     // 혜원 0435
 
 }
