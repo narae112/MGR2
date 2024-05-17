@@ -47,6 +47,8 @@ public class Attraction {
     // test 0434
     // 혜원 0435
 //duddsl 4444
+    // 평강 test 0440
+
 }
 // test 혜원 0226
 
