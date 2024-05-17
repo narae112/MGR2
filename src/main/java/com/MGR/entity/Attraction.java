@@ -49,7 +49,10 @@ public class Attraction {
     // 평강 test 0440
     // 평강 0448
     //평 te 01245
+    // test 102031
+    // 평강 0448
 
+    //test 111
 }
 // test 혜원 0226
 
