@@ -53,6 +53,7 @@ public class Attraction {
     // 평강 0448
 
     //test 111
+    //평강 500
 }
 // test 혜원 0226
 
